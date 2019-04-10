@@ -1,4 +1,5 @@
 # some simple functions
+#comment line
 
 def factorial(n): # assumes n non-negative integer, a number
     if (n == 0) :
